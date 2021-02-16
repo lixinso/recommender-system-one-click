@@ -5,3 +5,4 @@
 - Fully customizable. 
 - All Dev/Ops included. 
 - Free and open source
+- Data generator included: For testing purpose
